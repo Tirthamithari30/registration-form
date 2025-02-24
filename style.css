@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #38b9d3, #c471ed, #5f3bc2);  
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
